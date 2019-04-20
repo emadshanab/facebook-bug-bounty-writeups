@@ -1,4 +1,3 @@
-# facebook-bug-bounty-writeups
 ImageTragick
 XSS
 CSRF
