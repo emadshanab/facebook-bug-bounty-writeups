@@ -1,4 +1,9 @@
+<p align="center">
+  <img src="https://www.eweek.com/wp-content/uploads/2020/10/Facebook-bug-bounty-1088x725-2.png" alt="Facebook Bug Bounty" width="300" />
+</p>
+
 # Facebook Bug bounty WriteUps
+
 
 ### Bugs
 
