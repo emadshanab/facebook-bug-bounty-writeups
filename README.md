@@ -196,7 +196,7 @@
 ### Symlink Attack
 * http://josipfranjkovic.blogspot.com/2014/12/reading-local-files-from-facebooks.html
 
-###Accellion’s Secure File Transfer 
+### Accellion’s Secure File Transfer 
 * http://blog.orange.tw/2016/04/bug-bounty-how-i-hacked-facebook-and-found-someones-backdoor-script.html
 
 
